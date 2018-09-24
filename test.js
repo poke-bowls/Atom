@@ -1,5 +1,4 @@
-// Test Atom Runner.
-// Basic arrow function.
+// Test Atom Runner with Basic arrow function.
 
 console.log("I have the POWER!");
 
